@@ -1,1 +1,0 @@
-JAMES LENNOX CRICKET PORTFOLIO — adapted from supplied Marge Simpson starter. Read README.md and design-and-testing.md before submission. User testing, Adobe Express export, Adobe Color, favicon.io, validation and GitHub deployment remain to be completed honestly.
